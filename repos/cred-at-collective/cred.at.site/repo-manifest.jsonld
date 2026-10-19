@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/cred-at-collective/cred.at.site/commit/abb1bd06bc9b93a3bf60a7c206d6b60fe46b88ff",
       "git:hexsha": "abb1bd06bc9b93a3bf60a7c206d6b60fe46b88ff",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "enrich_complete"
     }
   ]
 }
