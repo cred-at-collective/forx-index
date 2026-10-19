@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/cred-at-collective/credcast",
+  "@type": "gh:Repository",
+  "gh:name": "credcast",
+  "gh:owner": "cred-at-collective",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/cred-at-collective/credcast/commit/4344176eace88d7ce868d5ff9f217d500f0bc315",
+      "git:hexsha": "4344176eace88d7ce868d5ff9f217d500f0bc315",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}

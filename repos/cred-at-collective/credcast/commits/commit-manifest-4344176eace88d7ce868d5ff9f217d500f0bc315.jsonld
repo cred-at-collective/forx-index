@@ -1,0 +1,38 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/cred-at-collective/credcast/commit/4344176eace88d7ce868d5ff9f217d500f0bc315",
+  "@type": "git:Commit",
+  "git:hexsha": "4344176eace88d7ce868d5ff9f217d500f0bc315",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/cred-at-collective/credcast"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/4344176eace88d7ce868d5ff9f217d500f0bc315.nq.gz",
+      "repolex:graphFileSize": 4832
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 713
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 418
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 32
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-10-19T02:35:24.175678+00:00",
+  "repolex:parserVersion": "0.1.10"
+}
