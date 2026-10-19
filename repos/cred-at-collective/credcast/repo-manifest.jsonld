@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/cred-at-collective/credcast/commit/4344176eace88d7ce868d5ff9f217d500f0bc315",
       "git:hexsha": "4344176eace88d7ce868d5ff9f217d500f0bc315",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "enrich_complete"
     }
   ]
 }

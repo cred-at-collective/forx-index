@@ -36,9 +36,39 @@
       "repolex:graphType": "ast",
       "repolex:graphFilePath": "aggregate/ast/4344176eace88d7ce868d5ff9f217d500f0bc315/chunk-001.nq.gz",
       "repolex:graphFileSize": 1692504
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "lsp",
+      "repolex:graphFilePath": "aggregate/lsp/4344176eace88d7ce868d5ff9f217d500f0bc315.nq.gz",
+      "repolex:graphFileSize": 156441
     }
   ],
-  "repolex:parseStatus": "ast_complete",
+  "repolex:parseStatus": "enrich_complete",
   "repolex:parsedAt": "2026-10-19T02:35:24.175678+00:00",
-  "repolex:parserVersion": "0.1.10"
+  "repolex:parserVersion": "0.1.10",
+  "repolex:dependencyRepo": [
+    {
+      "@id": "https://repolex.ai/r/Python-Markdown/markdown",
+      "repolex:packageName": "markdown"
+    },
+    {
+      "@id": "https://repolex.ai/r/yaml/pyyaml",
+      "repolex:packageName": "pyyaml",
+      "git:hexsha": "8cdff2c80573b8be8e8ad28929264a913a63aa33",
+      "git:tagName": "6.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/pygments/pygments",
+      "repolex:packageName": "pygments",
+      "git:hexsha": "35de421f65372fb848e86af711cc5797c622e54c",
+      "git:tagName": "2.12.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/dateutil/dateutil",
+      "repolex:packageName": "python-dateutil",
+      "git:hexsha": "6b035517571e63b6a63a493740c5506ec1e5da44",
+      "git:tagName": "2.8.2"
+    }
+  ]
 }
