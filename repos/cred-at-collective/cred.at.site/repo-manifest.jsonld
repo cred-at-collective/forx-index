@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/cred-at-collective/cred.at.site",
+  "@type": "gh:Repository",
+  "gh:name": "cred.at.site",
+  "gh:owner": "cred-at-collective",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/cred-at-collective/cred.at.site/commit/abb1bd06bc9b93a3bf60a7c206d6b60fe46b88ff",
+      "git:hexsha": "abb1bd06bc9b93a3bf60a7c206d6b60fe46b88ff",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
